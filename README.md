@@ -20,15 +20,23 @@ OneHtmlNav 是基于小呆导航的超级精简版本。在接触 OneHtmlNav 之
 2. 调整部分静态资源的链接，如 js、背景图片；
 3. 增加左侧目录（风格一）和不带左侧目录（风格二）的两种示例；
 
+### 预览
+* [风格一](https://shenweiyan.github.io/OneHtmlNav/index1.html)
+* ![index1.html](assets/index1-preview.png)
+
+* [风格二](https://shenweiyan.github.io/OneHtmlNav/index2.html)
+* ![index2.html](assets/index2-preview.png)
+
+
 
 ### 捐助
 请我喝瓶冰可乐~
 
 方式一: 支付宝捐助
-* ![alipay](assets/alipay.png)
+* ![alipay](assets/alipay.jpg)
 
 方式二: 微信捐助
-* ![wxpay](assets/weixin.png)
+* ![wxpay](assets/weixin.jpg)
 
 ### license
 这是基于小呆导航MIT协议的代码进行开发的，为了遵守协议规定，license 文件和界面声明我都保留了，使用的时候建议大家也遵守协议规定。
