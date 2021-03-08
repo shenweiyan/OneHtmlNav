@@ -1,12 +1,8 @@
 # OneHtmlNav
 
-OneHtmlNav 是基于小呆导航的超级精简版本。在接触 OneHtmlNav 之前个人一直使用百度自带的导航，百度自带的导航整体是非常棒的，但更换电脑或浏览器时需要重新登陆账号密码，不够方便。
+[OneHtmlNav](https://github.com/bituplink/OneHtmlNav) 是基于[小呆导航](https://github.com/xiaodai945/WEBJIKE)的超级精简版本。在接触 OneHtmlNav 之前个人一直使用百度自带的导航，百度自带的导航整体是非常棒的，但更换电脑或浏览器时需要重新登陆账号密码，不够方便。
 
-于是从满足自身最基本的导航功能出发，对 OneHtmlNav 的源码进行了一点点精简优化，由于定的是这个目标所以界面美化什么的就不要追求了，我前端代码能勉强看懂就不错了，所以各位如果有精力可以自己琢磨或者参考官网美化一下。
-
-访问小呆导航源项目: [github](https://github.com/xiaodai945/WEBJIKE)
-
-访问 OneHtmlNav 源项目: [github](https://github.com/bituplink/OneHtmlNav)
+于是从满足自身最基本的导航功能出发，对 OneHtmlNav 的源码进行了一点点精简优化，借用原作者的一句话：由于定的是这个目标所以界面美化什么的就不要追求了，我前端代码能勉强看懂就不错了，所以各位如果有精力可以自己琢磨或者参考官网美化一下。
 
 
 
@@ -22,10 +18,10 @@ OneHtmlNav 是基于小呆导航的超级精简版本。在接触 OneHtmlNav 之
 
 ### 预览
 * [风格一](https://shenweiyan.github.io/OneHtmlNav/index1.html)
-* ![index1.html](assets/index1-preview.png)
+  ![index1.html](assets/index1-preview.png)
 
 * [风格二](https://shenweiyan.github.io/OneHtmlNav/index2.html)
-* ![index2.html](assets/index2-preview.png)
+  ![index2.html](assets/index2-preview.png)
 
 
 
@@ -33,10 +29,10 @@ OneHtmlNav 是基于小呆导航的超级精简版本。在接触 OneHtmlNav 之
 请我喝瓶冰可乐~
 
 方式一: 支付宝捐助
-* ![alipay](assets/alipay.jpg)
+  ![alipay](assets/alipay.jpg)
 
 方式二: 微信捐助
-* ![wxpay](assets/weixin.jpg)
+  ![wxpay](assets/weixin.jpg)
 
 ### license
 这是基于小呆导航MIT协议的代码进行开发的，为了遵守协议规定，license 文件和界面声明我都保留了，使用的时候建议大家也遵守协议规定。
