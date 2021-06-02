@@ -31,6 +31,7 @@
 方式一: 支付宝捐助
   
 ![alipay](assets/alipay.jpg&s=200)
+<img src="assets/alipay.jpg" width="200">
 
 方式二: 微信捐助
 
