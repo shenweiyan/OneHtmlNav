@@ -30,11 +30,11 @@
 
 方式一: 支付宝捐助
   
-![alipay](assets/alipay.jpg | width=100)
+![alipay](./assets/alipay.jpg | width=100)
 
 方式二: 微信捐助
 
-![wxpay](assets/weixin.jpg | width=100)
+![wxpay](./assets/weixin.jpg | width=100)
 
-### license
-这是基于小呆导航MIT协议的代码进行开发的，为了遵守协议规定，license 文件和界面声明我都保留了，使用的时候建议大家也遵守协议规定。
+### License
+这是基于小呆导航 MIT 协议的代码进行开发的，为了遵守协议规定，license 文件和界面声明我都保留了，使用的时候建议大家也遵守协议规定。
